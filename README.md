@@ -1,2 +1,2 @@
-# KoreanFoodRecipeApp
+# KoreanFoodRecipe
 SimpleRestAPI
